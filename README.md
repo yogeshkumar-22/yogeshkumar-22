@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🏛️ Prefinal year student at SOA Deemed to be University, Bhubaneswar.<br>📚 I'm currently learning React and brushing up my knowledge in DS & Algorithms.<br>💼 Interned at HAL.</p>
+<p align="left">🏛️ Prefinal year student at SOA Deemed to be University, Bhubaneswar.<br>📚 I'm currently learning React and brushing up my knowledge in DS & Algorithms.</p>
 
 ###
 
