@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yogesh Kumar and I'm a building up my skills to become a Full Stack Web Developer.</p>
+<p align="left">My name is Akula Yogesh Kumar and I'm a building up my skills to become a Full Stack Web Developer.</p>
 
 ###
 
